@@ -1,6 +1,6 @@
 {
-  "locais": {
-    "string": [
+  "locais": 
+     [
       "Local 01",
       "Local 02",
       "Local 03",
@@ -18,5 +18,5 @@
       "Local 15",
       "Local 16"
     ]
-  }
+  
 }
