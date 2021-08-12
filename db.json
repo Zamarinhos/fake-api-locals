@@ -1,11 +1,44 @@
 {
   "locais": 
      [
-       
-       { "id": 1, "name": "Entendendo o ES6" },
-    { "id": 2, "name": "Produtividade Máxima com o VS Code" },
-    { "id": 3, "name": "Entendendo o ES7/ES8"},
-    { "id": 4, "name": "React 16 Definitivo" }
+       { 
+         "id": "1", 
+         "name": "Entendendo o ES6",
+         "etiquetas": 
+         [
+           { 
+             "id": "ET1", 
+             "name": "Entendendo o ES6" 
+           },
+           { 
+             "id": "ET2", 
+             "name": "Entendendo o ES6" 
+           },
+           { 
+             "id": "ET3", 
+             "name": "Entendendo o ES6" 
+           }
+         ]
+       },
+       { 
+         "id": "2", 
+         "name": "Produtividade Máxima com o VS Code",
+         "etiquetas": 
+         [
+           { 
+             "id": "ET1", 
+             "name": "Entendendo o ES6" 
+           }
+         ]
+       },
+       { 
+         "id": "3", 
+         "name": "Entendendo o ES7/ES8"
+       },
+       { 
+         "id": "4", 
+         "name": "React 16 Definitivo" 
+       }
     ]
  
   
