@@ -1,22 +1,12 @@
 {
   "locais": 
      [
-      "Sala maquinário Leste",
-      "Compressora de papel",
-      "Administrativo",
-      "Regazzo Testes",
-      "Palmeiras não tem mundial",
-      "Setor Administrativo",
-      "Laboratório celulose",
-      "Local 08",
-      "Local 09",
-      "Local 10",
-      "Local 11",
-      "Local 12",
-      "Local 13",
-      "Local 14",
-      "Local 15",
-      "Local 16"
+       
+       { "id": 1, "name": "Entendendo o ES6" },
+    { "id": 2, "name": "Produtividade Máxima com o VS Code" },
+    { "id": 3, "name": "Entendendo o ES7/ES8"},
+    { "id": 4, "name": "React 16 Definitivo" }
     ]
+ 
   
 }
