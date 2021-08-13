@@ -8,15 +8,15 @@
          [
            { 
              "id": "ET1", 
-             "name": "Entendendo o ES6" 
+             "name": "ETIQUETA 001" 
            },
            { 
              "id": "ET2", 
-             "name": "Entendendo o ES6" 
+             "name": "ETIQUETA 002" 
            },
            { 
              "id": "ET3", 
-             "name": "Entendendo o ES6" 
+             "name": "ETIQUETA 003" 
            }
          ]
        },
@@ -39,7 +39,12 @@
          "id": "4", 
          "name": "React 16 Definitivo" 
        }
-    ]
+    ],
+  "etiquetas" : [
+    {
+      
+    }
+  ]
  
   
 }
