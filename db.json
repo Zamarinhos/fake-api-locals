@@ -43,7 +43,7 @@
   "etiquetas" : [
       { 
         "id": "ET1", 
-        "name": "ETIQUETA 001" 
+        "name": "ETIQUETA 001",
         "numeroNota" : "NOTA 001",
         "tipoNota" : "TIPO1",
         "maquina" : "MAQUINA 001",
@@ -55,7 +55,7 @@
        },
     { 
         "id": "ET2", 
-        "name": "ETIQUETA 002" 
+        "name": "ETIQUETA 002",
         "numeroNota" : "NOTA 002",
         "tipoNota" : "TIPO2",
         "maquina" : "MAQUINA 034",
@@ -67,7 +67,7 @@
        },
     { 
         "id": "ET3", 
-        "name": "ETIQUETA 003" 
+        "name": "ETIQUETA 003",
         "numeroNota" : "NOTA 003",
         "tipoNota" : "TIPO3",
         "maquina" : "MAQUINA 100",
@@ -79,7 +79,7 @@
        },
     { 
         "id": "ET4", 
-        "name": "ETIQUETA 004" 
+        "name": "ETIQUETA 004",
         "numeroNota" : "NOTA 004",
         "tipoNota" : "TIPO1",
         "maquina" : "MAQUINA 001",
