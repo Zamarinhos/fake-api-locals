@@ -65,18 +65,10 @@
              "name": "Entendendo o ES6" 
            }
          ]
-       },
-       { 
-         "id": "3", 
-         "name": "Entendendo o ES7/ES8"
-       },
-       { 
-         "id": "4", 
-         "name": "React 16 Definitivo" 
        }
     ],
   "etiquetas" : [
-      { 
+    { 
         "id": "ET1", 
         "name": "ETIQUETA 001",
         "numeroNota" : "NOTA 001",
@@ -87,7 +79,7 @@
         "dataDeAbertura" : "12/08/2021",
         "descricao" : "DESCRIÇÃO 001",
         "statusNota" : "STATUS 001"
-       },
+    },
     { 
         "id": "ET2", 
         "name": "ETIQUETA 002",
