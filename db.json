@@ -41,9 +41,54 @@
        }
     ],
   "etiquetas" : [
-    {
-      
-    }
+      { 
+        "id": "ET1", 
+        "name": "ETIQUETA 001" 
+        "numeroNota" : "NOTA 001",
+        "tipoNota" : "TIPO1",
+        "maquina" : "MAQUINA 001",
+        "equipamento" : "EQUIPAMENTO 001",
+        "usuario" : "USUARIO 001",
+        "dataDeAbertura" : "12/08/2021",
+        "descricao" : "DESCRIÇÃO 001",
+        "statusNota" : "STATUS 001"
+       },
+    { 
+        "id": "ET2", 
+        "name": "ETIQUETA 002" 
+        "numeroNota" : "NOTA 002",
+        "tipoNota" : "TIPO2",
+        "maquina" : "MAQUINA 034",
+        "equipamento" : "EQUIPAMENTO 077",
+        "usuario" : "USUARIO 033",
+        "dataDeAbertura" : "12/08/2021",
+        "descricao" : "DESCRIÇÃO 002",
+        "statusNota" : "STATUS 002"
+       },
+    { 
+        "id": "ET3", 
+        "name": "ETIQUETA 003" 
+        "numeroNota" : "NOTA 003",
+        "tipoNota" : "TIPO3",
+        "maquina" : "MAQUINA 100",
+        "equipamento" : "EQUIPAMENTO 101",
+        "usuario" : "USUARIO 999",
+        "dataDeAbertura" : "12/08/2021",
+        "descricao" : "DESCRIÇÃO 003",
+        "statusNota" : "STATUS 003"
+       },
+    { 
+        "id": "ET4", 
+        "name": "ETIQUETA 004" 
+        "numeroNota" : "NOTA 004",
+        "tipoNota" : "TIPO1",
+        "maquina" : "MAQUINA 001",
+        "equipamento" : "EQUIPAMENTO 001",
+        "usuario" : "USUARIO 001",
+        "dataDeAbertura" : "12/08/2021",
+        "descricao" : "DESCRIÇÃO 004",
+        "statusNota" : "STATUS 004"
+       },
   ]
  
   
