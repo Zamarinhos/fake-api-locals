@@ -79,16 +79,6 @@
       ],
       "id": "LI01",
       "description": "Local de Instalação 01"
-    },
-    {
-      "etiquetas": null,
-      "id": "LI02",
-      "description": "Local de Instalação 02"
-    },
-    {
-      "etiquetas": null,
-      "id": "LI03",
-      "description": "Local de Instalação 03"
     }
   ]
 }
