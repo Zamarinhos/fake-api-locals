@@ -27,7 +27,7 @@
     {
       "number": "1287",
       "tipoNota": "Configuração",
-      "color": "#FF5733",
+      "color": "#FF5733",.
       "machine": "Asus098",
       "equipamento": "Notebook",
       "user": "The Phantom",
@@ -89,11 +89,6 @@
       "etiquetas": null,
       "id": "LI03",
       "description": "Local de Instalação 03"
-    },
-    {
-      "etiquetas": null,
-      "id": "LI04",
-      "description": "Local de Instalação 04"
     }
   ]
 }
