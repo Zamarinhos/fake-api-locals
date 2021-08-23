@@ -10,7 +10,8 @@
       "date": "2021-08-20",
       "statusNota": "Aberto",
       "id": "ET01",
-      "description": "Esta é a etiqueta 01"
+      "description": "Esta é a etiqueta 01",
+      "location" : "LC01"
     },
     {
       "number": "1286",
@@ -22,7 +23,8 @@
       "date": "2021-08-21",
       "statusNota": "Aberto",
       "id": "ET02",
-      "description": "Esta é a etiqueta 02"
+      "description": "Esta é a etiqueta 02",
+      "location" : "LC01"
     },
     {
       "number": "1287",
@@ -34,7 +36,8 @@
       "date": "2021-08-22",
       "statusNota": "Aberto",
       "id": "ET03",
-      "description": "Esta é a etiqueta 03"
+      "description": "Esta é a etiqueta 03",
+      "location" : "LC02"
     }
   ],
   "locais": [
