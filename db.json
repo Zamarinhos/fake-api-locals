@@ -10,8 +10,7 @@
       "date": "2021-08-20",
       "statusNota": "Aberto",
       "id": "ET01",
-      "description": "Esta é a etiqueta 01",
-      "location" : "LC01"
+      "description": "Esta é a etiqueta 01"
     },
     {
       "number": "1286",
@@ -23,8 +22,7 @@
       "date": "2021-08-21",
       "statusNota": "Aberto",
       "id": "ET02",
-      "description": "Esta é a etiqueta 02",
-      "location" : "LC01"
+      "description": "Esta é a etiqueta 02"
     },
     {
       "number": "1287",
@@ -36,8 +34,7 @@
       "date": "2021-08-22",
       "statusNota": "Aberto",
       "id": "ET03",
-      "description": "Esta é a etiqueta 03",
-      "location" : "LC02"
+      "description": "Esta é a etiqueta 03"
     }
   ],
   "locais": [
@@ -53,9 +50,7 @@
           "date": "2021-08-20",
           "statusNota": "Aberto",
           "id": "ET01",
-          "description": "Esta é a etiqueta 01",
-          "location" : "LC01",
-          "idCheckList" : "CKL01"
+          "description": "Esta é a etiqueta 01"
         },
         {
           "number": "1286",
@@ -67,9 +62,7 @@
           "date": "2021-08-21",
           "statusNota": "Aberto",
           "id": "ET02",
-          "description": "Esta é a etiqueta 02",
-          "location" : "LC01",
-          "idCheckList" : "CKL02"
+          "description": "Esta é a etiqueta 02"
         },
         {
           "number": "1287",
@@ -81,61 +74,11 @@
           "date": "2021-08-22",
           "statusNota": "Aberto",
           "id": "ET03",
-          "description": "Esta é a etiqueta 03",
-          "location" : "LC01",
-          "idCheckList" : "CKL03"
-        },
-        {
-          "number": "1285",
-          "tipoNota": "Substituição",
-          "color": "#3396FF",
-          "machine": "RVB89F",
-          "equipamento": "Copiadora",
-          "user": "The Phantom",
-          "date": "2021-08-20",
-          "statusNota": "Aberto",
-          "id": "ET01",
-          "description": "Esta é a etiqueta 01",
-          "location" : "LC01",
-          "idCheckList" : "CKL04"
+          "description": "Esta é a etiqueta 03"
         }
       ],
-      "id": "LI01",
-      "description": "Local de Instalação 01"
-    },
-    {
-      "etiquetas": [
-        {
-          "number": "1285",
-          "tipoNota": "Substituição",
-          "color": "#3396FF",
-          "machine": "RVB89F",
-          "equipamento": "Copiadora",
-          "user": "The Phantom",
-          "date": "2021-08-20",
-          "statusNota": "Aberto",
-          "id": "ET01",
-          "description": "Esta é a etiqueta 01",
-          "location" : "LC02",
-          "idCheckList" : "CKL05"
-        },
-        {
-          "number": "1286",
-          "tipoNota": "Manutenção",
-          "color": "#33FF8A",
-          "machine": "HP-7665",
-          "equipamento": "Scanner",
-          "user": "The Phantom",
-          "date": "2021-08-21",
-          "statusNota": "Aberto",
-          "id": "ET02",
-          "description": "Esta é a etiqueta 02",
-          "location" : "LC02",
-          "idCheckList" : "CKL06"
-        }
-      ],
-      "id": "LI02",
-      "description": "Local de Instalação 02"
+      "id": "35e1c64e-90fc-4d95-974b-9ef61e074dba",
+      "description": "ANG1-070-001 - BOMBA DE INCÊNDIO"
     }
   ]
 }
